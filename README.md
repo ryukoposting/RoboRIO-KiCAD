@@ -3,9 +3,10 @@ RoboRIO.
 
 # Adding a RoboRIO To your KiCAD Project
 
-1. Go to the [Releases] page and download the latest RoboRIO.zip file.
+1. [Download] the latest RoboRIO.zip file, or go to the GitHub releases page to
+   see other versions.
 
-[Releases]: https://github.com/ryukoposting/RoboRIO-KiCAD/releases
+[Download]: https://github.com/ryukoposting/RoboRIO-KiCAD/releases/download/0.1.0/RoboRIO.zip
 
 2. Open your KiCAD project in a file browser. You can do this by right-clicking
    on the project, and choosing "Open Directory in File Explorer."
